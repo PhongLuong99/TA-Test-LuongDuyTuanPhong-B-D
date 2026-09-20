@@ -34,7 +34,7 @@ Tôi dùng slot UpperBody trong Montage kết hợp Layered Blend per Bone ở A
 
 1. Extract the project ZIP file.
 2. Open the project using **Unreal Engine 5.8**.
-3. Open and play the **Test_B_CharacterAnimationTech** level.
+3. Open and play the **TA_Test_B_D** level.
 4. Implemented character movement 
 5. Press 1, 2, and 3 to switch weapons.
 
